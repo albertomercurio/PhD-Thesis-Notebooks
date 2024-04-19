@@ -1,0 +1,5 @@
+matplotlib==3.8.4
+numpy==1.26.4
+sympy==1.12
+jupyterlab==4.1.6
+notebook==7.1.3
