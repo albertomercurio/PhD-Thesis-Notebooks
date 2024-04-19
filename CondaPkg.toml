@@ -1,4 +1,0 @@
-[deps]
-matplotlib = "3.8.4"
-sympy = "1.12"
-numpy = "1.26.4"
